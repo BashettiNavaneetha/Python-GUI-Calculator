@@ -38,9 +38,8 @@ Run the Python script:
 
 python calculator.py
 
-🖼️ Screenshot
-
-(Add a screenshot of your calculator here. Example: screenshot.png)
+## 📸 Screenshot  
+![Calculator Output](Output.png)
 
 🛠️ Technologies Used
 
