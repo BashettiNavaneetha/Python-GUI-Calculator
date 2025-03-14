@@ -4,37 +4,37 @@ A simple calculator built using Python and Tkinter.
 
 📌 Features
 
-Supports basic arithmetic operations: +, -, *, /, %
+*Supports basic arithmetic operations: +, -, *, /, %
 
-Handles parentheses for complex calculations
+*Handles parentheses for complex calculations
 
-Decimal point support
+*Decimal point support
 
-Clear button to reset calculations
+*Clear button to reset calculations
 
-Simple and user-friendly GUI
+*Simple and user-friendly GUI
 
-Lightweight and fast execution
+*Lightweight and fast execution
 
-Error handling for invalid inputs
+*Error handling for invalid inputs
 
 🚀 Installation & Usage
 
 Prerequisites
 
-Python 3.x (Make sure Python is installed on your system)
+*Python 3.x (Make sure Python is installed on your system)
 
-Steps to Run the Calculator
+## Steps to Run the Calculator
 
-Clone this repository:
+1.Clone this repository:
 
 git clone https://github.com/yourusername/calculator.git
 
-Navigate to the project folder:
+2.Navigate to the project folder:
 
 cd calculator
 
-Run the Python script:
+3.Run the Python script:
 
 python calculator.py
 
@@ -43,9 +43,9 @@ python calculator.py
 
 🛠️ Technologies Used
 
-Python
+1.Python
 
-Tkinter (GUI Library)
+2.Tkinter (GUI Library)
 
 📌 Future Enhancements
 
